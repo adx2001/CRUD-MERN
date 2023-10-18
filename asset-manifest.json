@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adx2001/CRUD-MERN.git/static/css/main.6ccd65a8.css",
+    "main.js": "/adx2001/CRUD-MERN.git/static/js/main.e9635922.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/adx2001/CRUD-MERN.git/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/adx2001/CRUD-MERN.git/index.html",
+    "main.6ccd65a8.css.map": "/adx2001/CRUD-MERN.git/static/css/main.6ccd65a8.css.map",
+    "main.e9635922.js.map": "/adx2001/CRUD-MERN.git/static/js/main.e9635922.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/adx2001/CRUD-MERN.git/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.e9635922.js"
+  ]
+}
